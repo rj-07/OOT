@@ -1,0 +1,198 @@
+Enter account type
+Press 1 for Saving
+Press 2 for Current1
+
+enter the name:asd
+
+enter the account number:1456
+
+1. TO WITHDRAWL  
+2. TO DEPOSIT  
+3. TO DISPLAY  
+4. TO EXIT  2
+enter the amount u want to deposit20000
+
+ BALANCE IS  :         20000
+ BALANCE AFTER ADDING INTEREST IS :         20200
+1. TO WITHDRAWL  
+2. TO DEPOSIT  
+3. TO DISPLAY  
+4. TO EXIT  2
+enter the amount u want to deposit20
+
+ BALANCE IS  :         20220
+ BALANCE AFTER ADDING INTEREST IS :         20220
+1. TO WITHDRAWL  
+2. TO DEPOSIT  
+3. TO DISPLAY  
+4. TO EXIT  1
+
+ ENTER THE AMOUNT U WANT TO WITHDRAWL
+20
+withdrawled amount :20BALANCE IN UR ACCOUNT IS :20200
+1. TO WITHDRAWL  
+2. TO DEPOSIT  
+3. TO DISPLAY  
+4. TO EXIT  3
+
+1456
+asd
+20200
+1. TO WITHDRAWL  
+2. TO DEPOSIT  
+3. TO DISPLAY  
+4. TO EXIT  4
+rajagiri@rajagiri-HP-280-G4-MT-Business-PC:~/Desktop/oot47$ g++ 43.cpp
+rajagiri@rajagiri-HP-280-G4-MT-Business-PC:~/Desktop/oot47$ ./a.out
+
+Enter dimensions:
+2 3
+
+Area of rectangle is 6
+Enter dimensions:
+2 3
+
+Area of triangle is 3rajagiri@rajagiri-HP-280-G4-MT-Business-PC:~/Desktop/oot47$ g++ 51.cpp
+rajagiri@rajagiri-HP-280-G4-MT-Business-PC:~/Desktop/oot47$ ./a.out
+
+Enter base and height:2 3
+
+Area of right triangle:3
+Enter one side:5
+
+Area of equilateral triangle:10.825
+Enter the 3 sides:4 7 8
+
+Area of scalene triangle:13.9978rajagiri@rajagiri-HP-280-G4-MT-Business-PC:~/Desktop/oot47$ g++ 51.cpp
+rajagiri@rajagiri-HP-280-G4-MT-Business-PC:~/Desktop/oot47$ ./a.out
+
+Enter base and height:3 2
+
+Area of right triangle:3
+Enter one side:3
+
+Area of equilateral triangle:3.897
+Enter the 3 sides:8 4 7
+
+Area of scalene triangle:13.9978rajagiri@rajagiri-HP-280-G4-MT-Business-PC:~/Desktop/oot47$ ./a.out
+
+Enter base and height:3 2
+
+Area of right triangle:3
+Enter one side:5
+
+Area of equilateral triangle:10.825
+Enter the 3 sides:8 4 7
+
+Area of scalene triangle:13.9978rajagiri@rajagiri-HP-280-G4-MT-Business-PC:~/Desktop/oot47$ g++ 52.cpp
+rajagiri@rajagiri-HP-280-G4-MT-Business-PC:~/Desktop/oot47$ ./a.out
+
+Employee details
+Enter name:qwe
+
+Enter exp:3
+
+Enter salary:20000
+
+Enter Department name:asd
+
+Enter name:11
+
+Enter exp:50000
+
+Enter salary:zxc
+
+Enter Department name:
+Enter name:
+Enter exp:
+Enter salary:
+Enter Department name:
+Enter name:
+Enter exp:
+Enter salary:
+Enter Department name:
+Enter name:
+Enter exp:
+Enter salary:
+Enter Department name:
+Name:11
+Exp:50000
+Salary:0
+Department name:�
+Name:`�م
+Exp:32766
+Salary:1
+Department name:
+Name:
+Exp:121
+Salary:65535
+Department name:
+Name:
+Exp:32645
+Salary:0
+Department name:rajagiri@rajagiri-HP-280-G4-MT-Business-PC:~/Desktop/oot47$ ./a../a.out
+
+Employee details
+Enter name:qwe
+
+Enter exp:3
+
+Enter salary:20000
+
+Enter Department name:rty
+
+Enter name:asd
+
+Enter exp:11
+
+Enter salary:50000
+
+Enter Department name:fgh 
+
+Enter name:zxc
+
+Enter exp:5
+
+Enter salary:30000
+
+Enter Department name:vbn
+
+Enter name:poi
+
+Enter exp:50
+
+Enter salary:6000000
+
+Enter Department name:uyt
+
+Enter name:lkj
+
+Enter exp:9
+
+Enter salary:90000
+
+Enter Department name:hgf
+
+Name:asd
+Exp:11
+Salary:50000
+Department name:fgh
+Name:poi
+Exp:50
+Salary:6000000
+Department name:uytrajagiri@rajagiri-HP-280-G4-MT-Business-PC:~/Desktop/oot47$ .g++ 53.cpp
+rajagiri@rajagiri-HP-280-G4-MT-Business-PC:~/Desktop/oot47$ ./a.out
+
+Enter the number:3
+
+square:9
+Enter the number:3
+
+cube:27rajagiri@rajagiri-HP-280-G4-MT-Business-PC:~/Desktop/oot47$ ./a.out
+
+Enter the number:2
+
+square:4
+Enter the number:2
+
+cube:8rajagiri@rajagiri-HP-280-G4-MT-B
